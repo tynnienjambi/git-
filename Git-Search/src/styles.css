@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import '~font-awesome/css/font-awesome.css';
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Berkshire+Swash|Lustria|Old+Standard+TT|Pangolin&display=swap');
+body{
+  background-image: url("https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/bg%20.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
