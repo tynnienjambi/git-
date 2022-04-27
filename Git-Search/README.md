@@ -10,7 +10,7 @@
 This is Agular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
 
 ## Live Page 
-
+https://tynnienjambi.github.io/git-
 
 
 Composed of two main components.
@@ -25,7 +25,7 @@ Composed of two main components.
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Git-Search.git```
+* git clone ```https://github.com/tynnienjambi/git-.git```
 
 * cd Git-Search
 
@@ -51,8 +51,8 @@ Composed of two main components.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [njambik350@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2022 **Tinisha Kamau**
