@@ -3,18 +3,13 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Tinisha Kamau](https://github.com/tynnienjambi)
 
 ## Description
 
 This is Agular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
 
-## Screenshot
-
-<img src= "https://raw.githubusercontent.com/Owiti-Charles/Git-Search/master/src/assets/screenshotgitsearch.png" width="900px" height="440px">
-
 ## Live Page 
-https://Owiti-charles.github.io/Git-Search/ 
 
 
 
